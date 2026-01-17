@@ -1,9 +1,9 @@
 # 🚀 LeetCode Daily Journey
 
 Welcome to my **LeetCode Solutions Repository** 👋
-This repository is my personal space to build **consistency in coding** — showing up daily, practicing regularly, and developing the habit step by step.
+This repository is my personal space to build **consistency in coding**  showing up daily, practicing regularly, and developing the habit step by step.
 
-I’m not here to rush — I’m here to **learn, practice, and grow consistently**.
+I’m not here to rush , I’m here to **learn, practice, and grow consistently**.
 
 > **One problem a day. One concept at a time.**
 
@@ -30,7 +30,6 @@ Every solution here is:
 * 🟢 Start from basics and **move forward gradually**
 * 🟢 Focus on understanding, not speed
 
-Some days I’ll learn quickly, some days slowly — but I won’t stop.
 
 ---
 
